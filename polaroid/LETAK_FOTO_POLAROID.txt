@@ -1,0 +1,3 @@
+Taruh foto polaroid kamu di folder ini (format jpg, jpeg, png, webp, atau gif).
+Foto dipilih acak saat kamu membuka hadiah. Tidak perlu mengedit kode atau database.
+Gunakan foto persegi (rasio 1:1) agar tampil rapi di bingkai polaroid.

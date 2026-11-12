@@ -1,0 +1,4 @@
+# Cegah file di folder ini dijalankan sebagai script
+<FilesMatch "\.(php|phtml|phar|pl|py|cgi|sh)$">
+  Require all denied
+</FilesMatch>
